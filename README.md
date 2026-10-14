@@ -20,7 +20,7 @@ I like turning ideas into programs people can download and use, with clear inter
 | :--- | :--- |
 | **[LazarusBinder](https://github.com/kimineechan/LazarusBinder)** | Combines two standalone Windows EXEs, applies custom icons, and extracts icons from EXE/DLL files. |
 | **[VaultMedic](https://github.com/kimineechan/vaultmedic)** | A local password health and rotation assistant. |
-| **[ChainStory](https://github.com/kimineechan/ChainStory)** | A monochrome, read-only Ethereum and Bitcoin wallet viewer for Windows. |
+| **[ChainStory](https://github.com/kimineechan/ChainStory)** | A read-only Ethereum and Bitcoin wallet viewer for Windows. |
 
 ## Where my curiosity goes
 
