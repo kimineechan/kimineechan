@@ -6,20 +6,11 @@
   <strong>Cyber Security &amp; Forensics student. Windows utility builder. Always learning.</strong>
 </p>
 
-<p align="center">
-  London, UK · University of Westminster · Final year
-</p>
-
-<p align="center">
-  <a href="https://ouroboros1337.xyz/">Portfolio</a> ·
-  <a href="https://github.com/kimineechan?tab=repositories">All projects</a>
-</p>
-
 ---
 
 ## A little about me
 
-I'm a final-year **Cyber Security and Forensics** student at the University of Westminster. I build Windows desktop utilities and explore how public information can support security research and digital investigations.
+I'm a final-year **Cyber Security and Forensics** University student. I build Windows desktop utilities and explore how public information can support security research and digital investigations.
 
 I like turning ideas into programs people can download and use, with clear interfaces and source code they can inspect.
 
@@ -43,8 +34,3 @@ I like turning ideas into programs people can download and use, with clear inter
 More useful desktop tools, deeper work with public data, and stronger DevOps skills. I'm interested in graduate opportunities in cyber security, digital forensics, and DevOps.
 
 ---
-
-<p align="center">
-  <strong>Build something useful. Learn from it. Keep going.</strong><br>
-  <a href="https://ouroboros1337.xyz/">ouroboros1337.xyz</a>
-</p>
