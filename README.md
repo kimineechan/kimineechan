@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Cyber Security &amp; Forensics student. Windows utility builder. Always learning.</strong>
+  <strong>Windows utility builder. Always learning.</strong>
 </p>
 
 ---
