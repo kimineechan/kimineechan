@@ -10,7 +10,7 @@
 
 ## A little about me
 
-I'm a final-year **Cyber Security and Forensics** University student. I build Windows desktop utilities and explore how public information can support security research and digital investigations.
+I build Windows desktop utilities and explore how public information can support security research and digital investigations.
 
 I like turning ideas into programs people can download and use, with clear interfaces and source code they can inspect.
 
