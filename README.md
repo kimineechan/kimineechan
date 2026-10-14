@@ -32,5 +32,3 @@ I like turning ideas into programs people can download and use, with clear inter
 ## What comes next
 
 More useful desktop tools, deeper work with public data, and stronger DevOps skills. I'm interested in graduate opportunities in cyber security, digital forensics, and DevOps.
-
----
