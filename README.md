@@ -1,33 +1,19 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="1200" alt="kimineechan — Windows tools, public data, practical experiments.">
+<img src="https://www.gitskins.com/api/section/hero?username=kimineechan&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93411902%3Fu%3De073927ff43cbdc2afeae88c74d32c7566e049da%26v%3D4&v=showcase-hero-1" alt="laplace hero visual" />
 </p>
 
 <p align="center">
-  <strong>Windows utility builder. Always learning.</strong>
+<img src="https://www.gitskins.com/api/section/portrait?username=kimineechan&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93411902%3Fu%3De073927ff43cbdc2afeae88c74d32c7566e049da%26v%3D4&color=1&v=showcase-portrait-1" alt="laplace portrait visual" />
 </p>
 
----
+<p align="center">
+<img src="https://www.gitskins.com/api/section/wordmark?username=kimineechan&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93411902%3Fu%3De073927ff43cbdc2afeae88c74d32c7566e049da%26v%3D4&v=showcase-wordmark-3" alt="laplace wordmark visual" />
+</p>
 
-## A little about me
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=kimineechan&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93411902%3Fu%3De073927ff43cbdc2afeae88c74d32c7566e049da%26v%3D4&v=showcase-stack-4" alt="laplace stack visual" />
+</p>
 
-I build Windows desktop utilities and explore how public information can support security research and digital investigations.
-
-I like turning ideas into programs people can download and use, with clear interfaces and source code they can inspect.
-
-## Things I've built
-
-| Project | What it does |
-| :--- | :--- |
-| **[LazarusBinder](https://github.com/kimineechan/LazarusBinder)** | Combines two standalone Windows EXEs, applies custom icons, and extracts icons from EXE/DLL files. |
-| **[LazaVault](https://github.com/kimineechan/lazavault)** | A local password health and rotation assistant. |
-
-## Where my curiosity goes
-
-- **OSINT & infrastructure:** domains, DNS, certificates, and connections between websites.
-- **Digital forensics:** understanding what happened through the evidence left behind.
-- **Cryptocurrency fraud research:** exploring attribution of websites and related infrastructure.
-- **DevOps:** learning how to build, test, release, and maintain software through CI/CD and cloud infrastructure.
-
-## What comes next
-
-More useful desktop tools, deeper work with public data, and stronger DevOps skills. I'm interested in graduate opportunities in cyber security, digital forensics, and DevOps.
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=kimineechan&theme=aurora&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F93411902%3Fu%3De073927ff43cbdc2afeae88c74d32c7566e049da%26v%3D4&v=showcase-projects-5" alt="laplace projects visual" />
+</p>
